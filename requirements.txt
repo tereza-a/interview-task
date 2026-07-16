@@ -1,0 +1,4 @@
+fastapi
+requests
+boto3
+pydantic
